@@ -8,7 +8,7 @@ export default function BeginJourney() {
           <div className="hidden lg:flex justify-center relative">
             <div className="relative rounded-[32px] overflow-hidden">
               <img
-                src="/images/journey/agent.png"
+                src="/images/agent.png"
                 alt="Support agent"
                 className="w-[420px] h-auto object-cover"
               />

@@ -35,19 +35,19 @@ export default function OurProcess() {
           </div>
 
           <img
-            src="/images/Process/ProcessImg1.jpg"
+            src="/images/ProcessImg1.jpg"
             className="rounded-2xl w-full h-full object-cover"
             alt=""
           />
 
           <img
-            src="/images/Process/ProcessImg2.jpg"
+            src="/images/ProcessImg2.jpg"
             className="hidden lg:block rounded-2xl w-full h-full object-cover"
             alt=""
           />
 
           <img
-            src="/images/Process/ProcessImg3.png"
+            src="/images/ProcessImg3.png"
             className="rounded-2xl w-full h-full object-cover"
             alt=""
           />
@@ -65,7 +65,7 @@ export default function OurProcess() {
           </div>
 
           <img
-            src="/images/Process/ProcessImg4.png"
+            src="/images/ProcessImg4.png"
             className="hidden lg:block rounded-2xl w-full h-full object-cover"
             alt=""
           />
@@ -83,13 +83,13 @@ export default function OurProcess() {
           </div>
 
           <img
-            src="/images/Process/ProcessImg5.png"
+            src="/images/ProcessImg5.png"
             className="rounded-2xl w-full h-full object-cover"
             alt=""
           />
 
           <img
-            src="/images/Process/ProcessImg6.png"
+            src="/images/ProcessImg6.png"
             className="hidden lg:block rounded-2xl w-full h-full object-cover"
             alt=""
           />

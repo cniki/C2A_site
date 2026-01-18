@@ -4,7 +4,7 @@ export default function FooterSection() {
 
       <div className="relative w-full bg-white">
         <img
-          src="/images/footer/footerBg.png"
+          src="/images/footerBg.png"
           alt="Footer Illustration"
           className="w-full object-cover"
         />
@@ -28,7 +28,7 @@ export default function FooterSection() {
             {/* RIGHT */}
             <div className="hidden lg:block">
               <img
-                src="/images/footer/knowMore.png"
+                src="/images/knowMore.png"
                 alt="Know More"
                 className="h-full w-full object-cover"
               />

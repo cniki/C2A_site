@@ -6,7 +6,7 @@ export default function OurMission() {
         className="absolute top-0 left-0 w-full h-[580px] sm:h-[480px] md:h-[360px] lg:h-[480px]
              bg-no-repeat bg-cover bg-center"
         style={{
-          backgroundImage: "url('/images/Mission/missionBg.png')",
+          backgroundImage: "url('/images/missionBg.png')",
         }}
       />
 
